@@ -1,4 +1,4 @@
 BsF-libs
 ========
-Libraries fo CI Building
+Libraries for TC CI Building 
 
